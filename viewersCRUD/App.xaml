@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:viewersCRUD"
              >
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="BorderPrimary" Color="Pink"/>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
