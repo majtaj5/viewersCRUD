@@ -24,14 +24,11 @@
                 FontSize="32"
                 Text="Viewers"
                 />
-            
+
             <Button 
                 Grid.Column="1"  
                 Content="Add"
-                Padding="15 5"
-                VerticalAlignment="Center"
                 />
-            
         </Grid>
 
         <Grid Grid.Row="1" Margin="0 20 0 0">
